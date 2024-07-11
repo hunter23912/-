@@ -11,7 +11,3 @@
 
 游戏界面：
 ![游戏界面](./游戏界面.png)
-
-<font style="background: #00BFFF; padding: 15px; border: 5px solid #00FFFF; border-radius: 20px; font-family: 宋体, sans-serif; color: white; font-size: 24px;font-weight: 900">
-   俄罗斯方块<br>
-</font>
