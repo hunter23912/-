@@ -1,0 +1,7 @@
+﻿  Block.cpp
+  Button.cpp
+  Game.cpp
+  main.cpp
+D:\Desktop\VScode programs\俄罗斯方块\main.cpp(84,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  俄罗斯方块.vcxproj -> D:\Desktop\VScode programs\俄罗斯方块\x64\Debug\俄罗斯方块.exe
